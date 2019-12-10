@@ -6,10 +6,16 @@
   "author": "okmttdhr",
   "license": "MIT",
   "scripts": {
-    "build" : "yarn clean && tsc",
-    "clean": "rm -rf ./dist"
+    "build": "yarn clean && tsc",
+    "clean": "rm -rf ./dist",
+    "test": "echo test",
+    "release:prepare": "shipjs prepare",
+    "release:trigger": "shipjs trigger"
   },
   "devDependencies": {
     "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "shipjs": "^0.11.2"
   }
 }
