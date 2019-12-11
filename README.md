@@ -28,7 +28,7 @@ const double = (x: number) => x * 2;
 const addOne = (x: number) => x + 1;
 const square = (x: number) => x * x;
 
-console.log(pipe(double, addOne, square)(2)); // 25
+pipe(double, addOne, square)(2) // 25
 ```
 
 
@@ -40,8 +40,8 @@ import { curry } from 'fp-minimal';
 const add = (x: number, y: number) => x + y;
 const addOne = curry(add)(1);
 
-console.log(addOne(2)); // 3
-console.log([1, 2, 3].map(addOne)); // [2, 3, 4]
+addOne(2); // 3
+[1, 2, 3].map(addOne); // [2, 3, 4]
 ```
 
 
