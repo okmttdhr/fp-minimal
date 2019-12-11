@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/okmttdhr/fp-minimal/compare/v0.1.0...v1.0.0) (2019-12-11)
+
+
+### Bug Fixes
+
+* Types ([254eb79](https://github.com/okmttdhr/fp-minimal/commit/254eb7961acff57ea836c9a7787871aeaa1c747b))
+
+
+### Features
+
+* Add compose function ([0f04f85](https://github.com/okmttdhr/fp-minimal/commit/0f04f8587a11dbd996c21043d8f1f086025c4dbe))
+
+
+
 # 0.1.0 (2019-12-10)
 
 
