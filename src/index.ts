@@ -1,4 +1,5 @@
 export { pipe } from "./pipe";
+export { compose } from "./compose";
 
 export function curry(func: Function) {
   return function curried(...args: any[]) {
