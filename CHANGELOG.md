@@ -1,3 +1,7 @@
+## [1.0.2](https://github.com/okmttdhr/fp-minimal/compare/v1.0.0...v1.0.2) (2020-04-18)
+
+
+
 # [1.0.0](https://github.com/okmttdhr/fp-minimal/compare/v0.1.0...v1.0.0) (2019-12-11)
 
 
