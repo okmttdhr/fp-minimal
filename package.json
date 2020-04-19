@@ -14,9 +14,7 @@
     "release:trigger": "shipjs trigger"
   },
   "devDependencies": {
-    "typescript": "^3.8.3"
-  },
-  "dependencies": {
+    "typescript": "^3.8.3",
     "shipjs": "^0.18.2"
   }
 }
